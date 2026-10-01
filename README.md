@@ -12,5 +12,5 @@ A lightweight, terminal-based Snake Game built in C for Windows console without 
 Make sure you have GCC (MinGW / MSYS2) installed on Windows:
 
 --Commands To Run Game----
-gcc main.c -o snake.exe
-.\snake.exe
+1. gcc main.c -o snake.exe
+2. .\snake.exe
